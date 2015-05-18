@@ -1,0 +1,19 @@
+{
+  "name": "apartment-search-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Kirill Korolyov <kirill.korolyov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.9.25",
+    "dotenv": "^1.1.0",
+    "firebase": "^2.2.4",
+    "jsdom": "^5.3.0",
+    "kefir": "^2.4.1",
+    "mkdirp": "^0.5.0",
+    "querystringify": "0.0.3",
+    "request": "^2.55.0",
+    "url-parse": "^1.0.0"
+  }
+}
